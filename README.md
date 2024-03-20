@@ -6,7 +6,7 @@ Soil scientists often categorize soils into different groups based on their abil
 
 The goal of this Java program is to determine whether a given soil configuration allows water to drain or if it will retain the water.
 
-## Features
+## How it works
 
 - Reads an n-by-n grid of cells from a text file.
 - The program utilizes the Weighted Quick Union with Path Compression union-find algorithm.

@@ -17,5 +17,5 @@ The goal of this Java program is to determine whether a given soil configuration
 
 ## Requirements
 
-- Java Library alg4.jar from (https://algs4.cs.princeton.edu/code/)
+- Java Library alg4.jar from https://algs4.cs.princeton.edu/code/
 - Text file containing the soil configuration
